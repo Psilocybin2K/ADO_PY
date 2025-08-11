@@ -1,0 +1,6 @@
+[tool.pyright]
+typeCheckingMode = "basic"
+reportMissingTypeStubs = false
+reportMissingImports = false
+
+
